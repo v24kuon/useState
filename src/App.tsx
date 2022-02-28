@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import UseState1 from './components/UseState1';
+import UseState2 from './components/UseState2';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           Learn React
         </a>
         <UseState1 />
+        <UseState2 />
       </header>
     </div>
   );
