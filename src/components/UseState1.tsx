@@ -16,7 +16,7 @@ const UseState1 = () => {
           Count
         </button>
         <p>{count}</p>
-        <p>2回書いているが1つづしかカウントされない</p>
+        <p>2足す処理をしているがカウントされない</p>
       </div>
       <div {...{ style }}>
         <button
